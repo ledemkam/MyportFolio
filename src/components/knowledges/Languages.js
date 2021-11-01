@@ -8,7 +8,7 @@ class Languages extends Component {
          { id: '2', value: 'Css', xp: 2 },
          { id: '3', value: 'Html', xp: 2 },
          { id: '4', value: 'Java', xp: 1.2 },
-         { id: '4', value: 'MongoDB', xp: 1.4 },
+
          { id: '5', value: 'Firebase', xp: 1.2 },
          { id: '6', value: 'Wordpress', xp: 1.6 },
          { id: '7', value: 'Nodejs', xp: 1.4 },
