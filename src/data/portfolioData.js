@@ -69,6 +69,6 @@ export const portfolioData = [
       languagesIcons: ['fab fa-react', 'fab fa-css3-alt'],
       source: 'https://ledemkam.github.io/BOOTRAP5project/',
       info: 'projekt Bootstrap',
-      picture: './media/RestaurantBOOTSTRAP.png',
+      picture: './media/cvfg.png',
    },
 ];
