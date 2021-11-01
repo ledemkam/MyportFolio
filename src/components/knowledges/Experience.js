@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const Experience = () => {
    return (
@@ -25,8 +24,7 @@ const Experience = () => {
                Express.js, MongoDB, Firebase) waren ebenfalls Teil meiner
                Ausbildung. Wischen Sie nach Portofolio, um eine kleine Auswahl
                an Projekten anzuzeigen, die ich beim Programmieren programmiert
-               habe. Andere Projekten befinden sich in{' '}
-               <Link>https://github.com/ledemkam</Link>
+               habe. Andere Projekten(Github)
             </p>
          </div>
       </div>
