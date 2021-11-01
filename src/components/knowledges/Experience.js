@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Experience = () => {
    return (
@@ -22,7 +23,10 @@ const Experience = () => {
                JavaScript- und JS-Bibliotheken (Reactjs, Next.js) geplant und
                umgesetzt. CMS-Systeme (WordPress) und Backend (Node.js,
                Express.js, MongoDB, Firebase) waren ebenfalls Teil meiner
-               Ausbildung.
+               Ausbildung. Wischen Sie nach Portofolio, um eine kleine Auswahl
+               an Projekten anzuzeigen, die ich beim Programmieren programmiert
+               habe. Andere Projekten befinden sich in{' '}
+               <Link>https://github.com/ledemkam</Link>
             </p>
          </div>
       </div>
