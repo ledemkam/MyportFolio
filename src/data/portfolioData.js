@@ -67,8 +67,8 @@ export const portfolioData = [
       name: 'PortFolio',
       languages: ['React', 'Css'],
       languagesIcons: ['fab fa-react', 'fab fa-css3-alt'],
-      source: 'https://ledemkam.github.io/BOOTRAP5project/',
-      info: 'projekt Bootstrap',
+      source: 'https://myport-folio.vercel.app/',
+      info: 'projekt ReactJS',
       picture: './media/cvfg.png',
    },
 ];
